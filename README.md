@@ -25,8 +25,19 @@ I'm a student passionate about **AI/ML**, **Cybersecurity**, and **Web Developme
 
 ---
 
-### 🐍 Contribution Snake Game
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrasannaShakya111222/PrasannaShakya111222/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/PrasannaShakya111222/PrasannaShakya111222/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/PrasannaShakya111222/PrasannaShakya111222/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/PrasannaShakya111222/PrasannaShakya111222/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake Animation"
+    />
+  </picture>
 </p>
